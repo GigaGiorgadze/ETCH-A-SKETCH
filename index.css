@@ -1,0 +1,25 @@
+
+
+body {
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.container {
+  padding: 1rem;
+}
+
+
+.grid {
+  display: grid;
+  max-width: 500px;
+  min-height: 500px;
+  margin: 2rem auto;
+  border: 2px solid black;
+}
+
+.grid-element {
+  border: 1px solid black;
+
+}
+
